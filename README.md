@@ -3,7 +3,7 @@ TextWatch-hr
 
 Croatian Pebble TextWatch
 
-![](/screenshot.jpg)
+![](/textwatch-hr.jpg)
 
 Download: https://github.com/kost/TextWatch-hr/blob/master/build/TextWatch-hr.pbw
 
