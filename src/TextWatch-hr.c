@@ -9,7 +9,7 @@
 PBL_APP_INFO(MY_UUID,
              "TextWatch-hr", 
              "Kost kost@linux.hr",
-             1, 1, /* App version */
+             1, 2, /* App version */
              DEFAULT_MENU_ICON,
              APP_INFO_WATCH_FACE);
 

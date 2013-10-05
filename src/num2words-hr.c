@@ -99,6 +99,7 @@ void time_to_2words(int hours, int minutes, char* words, size_t length, char* wo
     remaining -= append_number(words, hours % 12);
   }
   if (minutes == 0 ) {
+    hours = hours % 12;
     if (hours==1) {
        remaining2 -= append_string(words2, remaining2, STR_OH_CLOCK);
     } else if (hours<5) {
